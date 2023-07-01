@@ -1,2 +1,2 @@
-# Personal-Development
+# Personal-development
 Github first rep
